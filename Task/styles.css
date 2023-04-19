@@ -1,0 +1,33 @@
+.main-title {
+  color: rgb(0, 126, 222);
+}
+.main-subtitle {
+  color: rgb(255, 48, 48);
+}
+.main-btn {
+  color: rgb(0, 126, 222);
+}
+.main-btn:hover {
+  color: rgb(255, 48, 48);
+}
+
+.content .font-18px {
+  font-size: 18px;
+}
+.content .font-16px {
+  font-size: 16px;
+}
+.content .font-14px {
+  font-size: 14px;
+}
+
+@media all and (min-width: 0px) {
+  .finish-btn {
+    width: 100%;
+  }
+}
+@media all and (min-width: 820px) {
+  .finish-btn {
+    width: 50%;
+  }
+}/*# sourceMappingURL=styles.css.map */
